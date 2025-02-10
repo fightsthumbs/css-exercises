@@ -1,6 +1,21 @@
 .container .text {
   background-color: yellow;
+<<<<<<< HEAD
   color: red;
   font-size: 20px;
   text-align: center;
 }
+=======
+  color: #E00000;
+  font-size: 20px;
+  text-align: center;
+}
+
+/* Below are some other possible descendant combinators:
+
+div p
+div .text
+.container p
+
+*/
+>>>>>>> mine2
